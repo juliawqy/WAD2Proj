@@ -4,10 +4,12 @@ FreshToPlate is a web application that aims on tackling food wastage by empoweri
 
 
 a) How to set up application
-  1. Import database.sql found in login_pages folder into phpMyAdmin
+  
+	1. Import database.sql found in login_pages folder into phpMyAdmin
 
 b) How to run application
-  1. Start MAMP/WAMP
+ 
+  1. Start MAMP/WAMP
   2. Open localhost (You will be directed to index.html which loads the home page of our app)
   3. Create an account and you're all set!
 
